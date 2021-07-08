@@ -1,6 +1,6 @@
 {
   "name": "depro",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "private": false,
   "description": "'前端自动化部署工具'",
   "author": {
@@ -15,8 +15,10 @@
     "types"
   ],
   "bugs": {
-    "email": "zp393939@outlook.com"
+    "email": "zp393939@outlook.com",
+    "url": "https://github.com/OctopusRoe/depro/issues"
   },
+  "homepage": "https://github.com/OctopusRoe/depro",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "node ./bin/index.js"
