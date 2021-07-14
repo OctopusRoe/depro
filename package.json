@@ -1,6 +1,6 @@
 {
   "name": "depro",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "private": false,
   "description": "'前端自动化部署工具'",
   "author": {
